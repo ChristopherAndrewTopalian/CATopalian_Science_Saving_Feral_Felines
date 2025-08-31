@@ -33,6 +33,10 @@ In this way, the kitten only has to barely step on the metal plate, to activate 
 
 ---
 
+![Feral Feline Trap Electromagnetic Trigger](textures/feral_feline_trap_electromagnetic_trigger.png)
+
+---
+
 //----//
 
 // Dedicated to God the Father  
